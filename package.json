@@ -1,0 +1,23 @@
+{
+  "name": "20230318-incantationstoinstagram",
+  "version": "1.0.0",
+  "description": "Goal is to make a",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "draw": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorisfalter/incantationsToInstagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorisfalter/incantationsToInstagram/issues"
+  },
+  "homepage": "https://github.com/jorisfalter/incantationsToInstagram#readme",
+  "dependencies": {
+    "canvas": "^2.11.0"
+  }
+}
